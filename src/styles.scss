@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~tachyons";
+@import url("https://fonts.googleapis.com/css?family=Bungee+Shade&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Bungee&display=swap");
+@import "~animate.css";
+body {
+  background-color: #eae7af;
+}
+
+.main-title {
+  font-family: "Bungee Shade", cursive;
+}
+
+.subtitle {
+  font-family: "Bungee", cursive;
+}
