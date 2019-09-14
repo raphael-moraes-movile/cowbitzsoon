@@ -341,7 +341,7 @@ import { Component } from "@angular/core";
         </defs>
       </svg>
       <h1 class="main-title animated infinite pulse">COWBITZ</h1>
-      <h3 class="subtitle">SOFTWARE INOVATION</h3>
+      <h3 class="subtitle">SOFTWARE INNOVATION</h3>
     </div>
   `,
   styleUrls: []
